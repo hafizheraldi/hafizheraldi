@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @hafizheraldi
 - 👀 I’m interested in statistics and machine learning
-- 🌱 I’m currently learning deep learning (CNN and LSTM)
 - 💞️ I’m looking to collaborate on data science project or something related
 - 📫 You can see me more on linkedin.com/in/hafizyusufheraldi/
 
